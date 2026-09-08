@@ -1,0 +1,2 @@
+
+Pull Request é uma forma de enviar alterações feitas em um projeto para que o dono ou outros colaboradores possam analisar e decidir se essas alterações serão adicionadas ao projeto original. Ele é muito utilizado em projetos colaborativos, pois permite revisar as modificações antes de integrá-las ao código principal.
